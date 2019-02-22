@@ -1,0 +1,44 @@
+body {
+    background-image: url('../img/background.jpg')
+}
+
+.content{
+    background-color: rgba(255, 255, 255, 0.58)
+}
+
+header, main{
+    background-color: rgba(5, 5, 79, 0.15)
+}
+
+h2{
+    font-size: 1.2em;
+    text-transform: uppercase;
+    color: #048;
+    margin-bottom: 1em;
+    font-weight: 700;
+}
+
+h3{
+    font-size: 1.5em;
+    text-transform: uppercase;
+    margin-bottom: 1em;
+    font-weight: 500;
+    border-bottom: 1px solid black;
+    padding-bottom: 0.3em;
+}
+
+#ustava h4{
+    font-weight: 400;
+    color: white;
+    background-color: #262626;
+    padding: 0.3em;
+    font-size: 1.1em;
+}
+
+#ustava h4:hover{
+    background-color: #D29B00;
+}
+
+#ustava p{
+    display: none;
+}
